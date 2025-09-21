@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useTheme } from "../context/ThemeContext";
-import { Button } from "./ui/button";
+import { Button } from "./ui/Button.jsx";
 import { X } from "lucide-react";
 import { Link } from "react-router-dom";
 
